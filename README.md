@@ -1,3 +1,3 @@
-# rust_browser_6_final
+# rust_browser
 
 Browser engine. 
